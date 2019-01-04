@@ -1,0 +1,3 @@
+CREATE DATABASE reviver;
+CREATE USER reviver WITH PASSWORD 'password';
+GRANT ALL PRIVILEGES ON DATABASE reviver TO reviver;
